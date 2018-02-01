@@ -1,0 +1,93 @@
+/*Reset*/
+* {
+	padding: 0;
+	margin: 0;
+}
+
+*:focus {
+    outline: none;
+}
+
+/*Global*/
+a {
+	text-decoration: none;
+}
+
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 1.6;
+	color: #926239;
+}
+
+/*header*/
+#showcase {
+	background-image: url('../img/showcase.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding: 0 20px;
+}
+
+#showcase h1 {
+	font-size: 50px;
+	font-weight: 100;
+}
+
+#showcase h2 {
+	font-size: 24px;
+	font-weight: 100;
+	line-height: 1;
+}
+
+#showcase p {
+	font-style: italic;
+	margin-top: 25px;
+}
+
+.button {
+	padding: 5px 20px;
+	border: #926239 1px solid;
+	border-radius: 5px;
+	margin-top: 25px;
+	color: #926239;
+}
+
+.button:hover {
+	background-color: #926239;
+	color: #fff;
+}
+
+/*about*/
+#about {
+	width: 80%;
+	margin: 20px auto;
+	padding: 50px 0;
+}
+
+#about h2 {
+	font-size: 32px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#about p {
+	text-align: justify;
+	padding: 10px 0;
+}
+
+/*footer*/
+footer {
+	font-size: 12px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 20px 0;
+	background-color: #926239;
+}

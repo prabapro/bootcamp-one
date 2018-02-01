@@ -1,0 +1,85 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Fira Mono', monospace;
+    font-size: 0.9em;
+    line-height: 1.8em;
+    color: #000;
+}
+
+a {
+    color: #000;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+a:hover,
+a:focus {
+    color: #000;
+}
+
+h4{
+    font-family: 'Fira Mono', monospace;
+    margin:50px 0 15px 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+}
+section {
+    padding: 50px 0;
+}
+
+ul li{
+    padding:2px;
+    margin-left: 1em;
+}
+
+.group-bg{
+    background-color: #eaeaea;
+    border-radius: 5px;
+}
+
+code {
+    font-size: 1em;
+    background-color: #fff;
+    padding:2px 10px;
+    border-radius: 3px;
+}
+
+.dload {
+    font-size: 0.9em;
+    color: #e83e8c;
+    background-color: rgba(234, 234, 234, 0.62);
+    padding:2px 6px;
+    border-radius: 3px;
+}
+
+.table{
+    margin-bottom: 0;
+}
+
+.table td, .table th {
+    padding: 0;
+    vertical-align: top;
+    border-top:none;
+}
+
+.table th{
+    width:20%;
+}
+
+hr {
+    max-width: 100px;
+    margin: 25px auto 0;
+    border-width: 1px;
+    border-color: rgba(34, 34, 34, 0.1);
+}
+
+hr.light {
+    border-color: white;
+}

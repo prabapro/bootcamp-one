@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"p",
+				"praba.jpg\tw:640 h:640"
+			],
+			[
+				"backgrou",
+				"background-attachment"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Praba/Desktop/my-site/index.html",
+			"settings":
+			{
+				"buffer_size": 11042,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 261.0,
+		"history":
+		[
+			"clear",
+			"git --version"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/bootcamp-one",
+		"/D/xampp/htdocs/bootcamp-one/my-site",
+		"/D/xampp/htdocs/bootcamp-one/my-site/css",
+		"/D/xampp/htdocs/bootcamp-one/my-site/projects",
+		"/D/xampp/htdocs/bootcamp-one/my-site/projects/beach",
+		"/D/xampp/htdocs/bootcamp-one/projects",
+		"/D/xampp/htdocs/bootcamp-one/projects/beach",
+		"/D/xampp/htdocs/bootcamp-one/projects/beach/css"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/bootcamp-one/my-site/css/style.css",
+		"/D/xampp/htdocs/bootcamp-one/my-site/projects/beach/index.html",
+		"/D/xampp/htdocs/bootcamp-one/my-site/index.html",
+		"/D/xampp/htdocs/bootcamp-one/index.php",
+		"/C/Users/Praba/Desktop/my-site/my-site/css/style.css",
+		"/D/xampp/htdocs/bootcamp-one/css/style.css",
+		"/D/xampp/htdocs/bootcamp-one/beach.php",
+		"/D/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+		"/C/Users/praba/Desktop/index.html",
+		"/D/Sublime Text 3/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/D/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Sublime Text 3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 3/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/D/xampp/htdocs/bootcamp-one/site/index.php",
+		"/D/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Google Drive/Bootcamps/Bootcamp-one/Site/projects/parallax/css/style.css",
+		"/D/Google Drive/Bootcamps/Bootcamp-one/Site/student-site/js/bootcamp.min.js",
+		"/D/Google Drive/Bootcamps/Bootcamp-one/Site/student-site/css/style.css",
+		"/D/Google Drive/Bootcamps/Bootcamp-one/Site/projects/parallax/index.html",
+		"/C/Users/praba/Desktop/Devs/css/animate.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Praba/Desktop/my-site/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8129,
+								8129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2376.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bootcamp-one.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
