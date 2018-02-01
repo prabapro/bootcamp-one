@@ -31,7 +31,8 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 159,
+				"buffer_size": 181,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -78,7 +79,7 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xampp/htdocs/bootcamp-one"
+		"/D/xampp/htdocs/bootcamp/bootcamp-one"
 	],
 	"file_history":
 	[
@@ -147,7 +148,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 159,
+						"buffer_size": 181,
 						"regions":
 						{
 						},
