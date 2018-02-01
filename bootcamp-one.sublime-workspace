@@ -28,12 +28,11 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Praba/Desktop/my-site/index.html",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 11042,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"buffer_size": 159,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -79,17 +78,11 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xampp/htdocs/bootcamp-one",
-		"/D/xampp/htdocs/bootcamp-one/my-site",
-		"/D/xampp/htdocs/bootcamp-one/my-site/css",
-		"/D/xampp/htdocs/bootcamp-one/my-site/projects",
-		"/D/xampp/htdocs/bootcamp-one/my-site/projects/beach",
-		"/D/xampp/htdocs/bootcamp-one/projects",
-		"/D/xampp/htdocs/bootcamp-one/projects/beach",
-		"/D/xampp/htdocs/bootcamp-one/projects/beach/css"
+		"/D/xampp/htdocs/bootcamp-one"
 	],
 	"file_history":
 	[
+		"/C/Users/Praba/Desktop/my-site/index.html",
 		"/D/xampp/htdocs/bootcamp-one/my-site/css/style.css",
 		"/D/xampp/htdocs/bootcamp-one/my-site/projects/beach/index.html",
 		"/D/xampp/htdocs/bootcamp-one/my-site/index.html",
@@ -150,27 +143,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Praba/Desktop/my-site/index.html",
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11042,
+						"buffer_size": 159,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8129,
-								8129
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2376.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
