@@ -161,6 +161,8 @@
                 <ul class="list-inline ">
                     <li class="list-inline-item ">
                         <a href="http://bit.ly/digication-bootcamp-feedback" target="_blank">Rate our Bootcamp</a>
+                        <a href="downloads/playground.zip">&nbsp;&nbsp;&nbsp;&nbsp;Playground&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                        <a href="downloads/sublime.zip">Sublime Text 3</a>
                     </li>
                 </ul>
             </div>
