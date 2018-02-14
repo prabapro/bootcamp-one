@@ -8,32 +8,27 @@ body {
 
 /*Global*/
 
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+button {
+	height: 30px;
+	background-color: #fd5f60;
+	border: none;
+	padding: 2px 20px;
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
 a{
 	text-decoration: none;
 }
 
 *:focus {
     outline: none;
-}
-
-.container {
-	width: 80%;
-	margin: auto;
-	overflow: hidden;
-	text-align: center;
-}
-
-.button_1 {
-	height: 30px;
-	/*background-color: #90a431;*/
-	background-color: #fd5f60;
-	border: none;
-	padding: 2px 20px;
-	color: #fff;
-}
-
-button {
-	font-family: 'Open Sans', sans-serif;
 }
 
 .dark {
@@ -57,12 +52,20 @@ button {
 	margin-top: 50px;
 }
 
+
 /*Header*/
+
 header {
 	background: #000;
 	color: #fff;
 	min-height: 80px;
 	padding-top: 25px;
+}
+
+header h1 {
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: 400;
 }
 
 header a {
@@ -72,18 +75,12 @@ header a {
 	font-size: 12px;
 }
 
-header h1 {
-	text-transform: uppercase;
-	font-size: 24px;
-	font-weight: 400;
-}
-
 header li {
 	display: inline;
 	padding-right: 10px;
 }
 
-header #branding {
+header #logo {
 	float: left;
 }
 
@@ -152,6 +149,7 @@ header a:hover {
 	font-family: 'Open Sans', sans-serif;
 }
 
+
 #boxes {
 	margin: 80px 0;
 }
@@ -204,7 +202,21 @@ footer {
 	text-transform: uppercase;
 }
 
+/*About*/
+
+#main {
+	padding: 20px 0 60px 0;
+}
+
+article#main-col {
+	float: left;
+	width: 65%;
+	margin-top: 10px;
+	text-align: justify;
+}
+
 /*Sidebar*/
+
 aside#sidebar {
 	float: right;
 	width: 30%;
@@ -220,16 +232,6 @@ aside#sidebar .quote textarea {
 	margin-bottom: 20px;
 }
 
-#main {
-	padding: 20px 0 60px 0;
-}
-
-article#main-col {
-	float: left;
-	width: 65%;
-	margin-top: 10px;
-	text-align: justify;
-}
 
 /*Services*/
 #services {
@@ -254,6 +256,7 @@ ul.contact {
 .contact li{
 	list-style: none;
 	padding:20px 0;
+
 }
 
 .contact a{
@@ -274,9 +277,8 @@ ul.contact {
 .fa {
 	color: #e42c2c;
 	margin-right: 5px;
-	display: block;
-
 }
+
 
 /* Media queries (for responsive design) */
 @media(max-width:768px) {
